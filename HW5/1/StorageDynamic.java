@@ -11,7 +11,6 @@
  * addition of nodes.
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 @SuppressWarnings("hiding")

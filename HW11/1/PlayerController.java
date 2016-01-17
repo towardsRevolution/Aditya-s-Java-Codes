@@ -9,7 +9,7 @@
  * The Class represents the controller for the Connect4Field game (Player vs
  * Player)
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  *
  */
 public class PlayerController extends Thread {

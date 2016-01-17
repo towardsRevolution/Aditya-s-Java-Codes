@@ -15,7 +15,6 @@ import java.util.*;
  * precedence of operators:-  1)."(" ")"  2). "^"  3)."/"  4)."*"  5)."%"  6)."+"  7)."-" 
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 

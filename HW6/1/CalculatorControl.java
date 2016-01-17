@@ -8,7 +8,7 @@
 /**
  * The Class represents the controller for the Calculator design
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  *
  */
 public class CalculatorControl {

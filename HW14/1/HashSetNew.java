@@ -11,7 +11,7 @@ import java.util.*;
 /*
  * This class is my implementation of the class HashSet (inbuilt) of java. 
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  */
 public class HashSetNew extends HashSet {
 	int MAX = 20000;

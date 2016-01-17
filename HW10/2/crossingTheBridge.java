@@ -12,7 +12,6 @@ import java.util.*;
  * (max 10) using wait, notify, notifyALL(), synchronized 
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 public class crossingTheBridge extends Thread {

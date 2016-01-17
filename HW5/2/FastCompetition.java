@@ -10,7 +10,6 @@
  * contain(), remove() and sort() are performed
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 

@@ -11,7 +11,7 @@ import java.util.Random;
  * The Class represents the model for the Connect4Field game design(Player vs
  * Computer)
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  *
  */
 

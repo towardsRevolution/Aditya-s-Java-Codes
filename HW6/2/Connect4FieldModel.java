@@ -8,7 +8,7 @@
 /**
  * The Class represents the model for the Connect4Field game design(test board)
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  *
  */
 public class Connect4FieldModel implements Connect4FieldInterface {

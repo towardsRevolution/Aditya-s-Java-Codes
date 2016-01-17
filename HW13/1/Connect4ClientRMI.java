@@ -20,7 +20,7 @@ import javax.sound.midi.Receiver;
 /* The class acts as the client in a network connection between
  * some clients and server formed using RMI.
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  */
 
 /*

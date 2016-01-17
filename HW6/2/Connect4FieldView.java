@@ -8,7 +8,7 @@
 /**
  * The Class represents the view for the Connect4Field game design (test board)
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  *
  */
 public class Connect4FieldView {

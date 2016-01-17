@@ -11,7 +11,7 @@ import java.util.*;
 /**
  * The Class represents the view for the Calculator design
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  *
  */
 public class CalculatorView {

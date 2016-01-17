@@ -18,7 +18,6 @@ import javax.swing.JFrame;
  * This program executes the Mandelbrot algorithm using Multithreading
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 public class Mandelbrot extends JFrame {

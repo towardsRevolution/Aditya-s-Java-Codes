@@ -11,7 +11,6 @@
  * list, which is created using a Node class.
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 @SuppressWarnings("hiding")

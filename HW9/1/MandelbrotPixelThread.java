@@ -20,7 +20,6 @@ import javax.swing.JFrame;
  * (the program uses synchronize(), wait(), notify() and notifyAll())
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 

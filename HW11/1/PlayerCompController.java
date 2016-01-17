@@ -10,7 +10,7 @@
  * The Class represents the controller for the Connec0t4Field game design(Player
  * vs Computer)
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  *
  */
 public class PlayerCompController {

@@ -15,7 +15,6 @@ import javax.swing.text.html.HTMLDocument.HTMLReader.ParagraphAction;
  * 
  * @author HPB
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 public class SieveOfEratosthenes extends Thread {

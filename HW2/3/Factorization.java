@@ -11,7 +11,6 @@ import java.util.*;
  * This program gives all factors of a number entered by the user
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 public class Factorization {

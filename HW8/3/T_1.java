@@ -10,7 +10,6 @@
  * 
  * Commented by-
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
  public class T_1 extends Thread	{

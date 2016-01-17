@@ -8,7 +8,7 @@
 /**
  * The Class represents the model for the Connect4Field game (Player vs Player)
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  *
  */
 public class PlayerModel implements Connect4FieldInterface {

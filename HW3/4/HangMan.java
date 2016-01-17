@@ -16,7 +16,6 @@ import java.util.*;
  * greater than four).
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 public class HangMan {

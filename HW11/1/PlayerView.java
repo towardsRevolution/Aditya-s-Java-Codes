@@ -10,7 +10,7 @@ import java.util.*;
 /**
  * The Class represents the view for the Connect4Field game (Player vs Player)
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  *
  */
 public class PlayerView extends Thread implements PlayerInterface {

@@ -12,7 +12,6 @@ import java.io.*;
  * Algorithm
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 public class StringZipInputStream {

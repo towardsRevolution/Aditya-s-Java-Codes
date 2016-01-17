@@ -10,7 +10,6 @@
  * subclass to an object of a superclass).
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 class A {

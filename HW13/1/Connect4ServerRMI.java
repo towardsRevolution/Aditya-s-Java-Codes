@@ -16,7 +16,7 @@ import java.rmi.server.UnicastRemoteObject;
 /* The class acts as the Server in a network connection between
  * some clients and server formed using RMI.
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  */
 
 public class Connect4ServerRMI extends UnicastRemoteObject implements

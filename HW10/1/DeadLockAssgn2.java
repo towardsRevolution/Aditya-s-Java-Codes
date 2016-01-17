@@ -10,7 +10,6 @@
  * This program guarantees the occurrence of a deadlock.
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 public class DeadLockAssgn2 extends Thread {

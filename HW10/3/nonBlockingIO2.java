@@ -14,7 +14,6 @@ import java.nio.channels.FileChannel;
  * This program implements mainly a non-blocking I/O class.
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 

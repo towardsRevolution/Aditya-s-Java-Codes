@@ -9,7 +9,7 @@
  * The Class represents the controller for the Connect4Field game design(test
  * board)
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  *
  */
 public class Connect4FieldControl {

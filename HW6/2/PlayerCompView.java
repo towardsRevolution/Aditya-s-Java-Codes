@@ -11,7 +11,7 @@ import java.util.Scanner;
  * The Class represents the view for the Connect4Field game design(Player vs
  * Computer)
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  *
  */
 public class PlayerCompView implements PlayerInterface {

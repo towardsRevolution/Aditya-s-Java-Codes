@@ -12,7 +12,6 @@ import java.util.*;
  * against one another on the same computer screen.
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 public class Player implements PlayerInterface {

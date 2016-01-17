@@ -11,7 +11,7 @@ import java.util.*;
 /**
  * The Class represents the model for the Calculator design
  * 
- * @author Aditya Pulekar, Mandar Badave
+ * @author Aditya Pulekar
  *
  */
 public class CalculatorModel {

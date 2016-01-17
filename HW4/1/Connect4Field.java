@@ -10,7 +10,6 @@
  * methods to keep a check on the status of the game.
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 public class Connect4Field implements Connect4FieldInterface {

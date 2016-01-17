@@ -17,7 +17,6 @@ import java.util.Vector; // what does this line do?
  * 'private final'.
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 class ConstantOrNot {

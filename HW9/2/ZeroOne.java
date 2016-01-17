@@ -11,7 +11,6 @@
  * 
  * @author Hpb
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 public class ZeroOne extends Thread {

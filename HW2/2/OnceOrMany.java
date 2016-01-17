@@ -1,4 +1,3 @@
-package hw_final;
 
 class OnceOrMany {
 	

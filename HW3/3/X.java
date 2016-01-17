@@ -11,7 +11,6 @@
  * operator (?:).
  * 
  * @author Aditya Pulekar
- * @author Mandar Badave
  *
  */
 class X {
